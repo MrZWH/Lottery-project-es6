@@ -6,9 +6,13 @@ git clone https://github.com/MrZWH/Lottery-project-es6.git
 ```  
 ## 使用
 ```
-//安装依赖
+//根目录安装依赖
+npm install
+
+//进入server目录安装服务端依赖
 npm install
 
 //预览使用
 gulp --watch
+//在 http://localhost:3000 查看
 ```
